@@ -15,12 +15,10 @@ A console-based Vending Machine application built using Core Java and JDBC. This
 ## 📸 Project Screenshots
 
 ### Customer Menu
-![Customer View](customer-screenshot.png)
 <img width="442" height="369" alt="Customer" src="https://github.com/user-attachments/assets/cf4eebbc-5093-42f5-adf1-4ef12982d08d" />
 
 
 ### Admin Dashboard
-![Admin View](admin-screenshot.png)
 <img width="433" height="380" alt="Admin1" src="https://github.com/user-attachments/assets/a9377dcb-c8f3-4737-bc0f-619fad21afb4" />
 
 
