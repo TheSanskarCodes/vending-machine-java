@@ -10,7 +10,7 @@ A console-based Vending Machine application built using Core Java and JDBC. This
 ## ✨ Key Features & Results
 * Designed and developed a robust vending machine application with seamless admin and customer functionalities for item management, order processing, and queries.
 * Delivered an intuitive interface for customers to place orders, make payments, and raise queries, while enabling efficient inventory management and query handling for admins.
-* Integrated secure payment processing and real-time customer interaction visibility, enhancing operational efficiency and user experience.
+* Implemented transactional logic using Core Java and JDBC to accurately process simulated payments, calculate change, and persist inventory updates securely to a MySQL database.
 
 ## 📸 Project Screenshots
 
